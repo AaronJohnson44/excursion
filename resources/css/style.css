@@ -11,3 +11,23 @@ h2{
   font-weight: 300;
   font-size: 42px;
 }
+
+link{
+  color: Aquamarine
+  font-size: 16px;
+}
+
+#copyright{
+  text-align: right;
+  color: gray;
+}
+
+description{
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+background-color{
+  background-color: black;
+}
